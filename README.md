@@ -1,4 +1,7 @@
 # fluxbb
-Archive 1.5.11
+
+Archive 1.5.11 
+
 Fchier de langue fr
-Plugins
+
+Plugins (compatible v 1.5.11)
